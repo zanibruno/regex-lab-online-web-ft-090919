@@ -15,7 +15,6 @@ result_array = text.split(" ")
 result_array.grep(/\w{5}$)
 end 
 end
-end
 
 def first_word_capitalized_and_ends_with_punctuation?(text)
 
